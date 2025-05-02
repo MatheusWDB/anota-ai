@@ -47,7 +47,7 @@ cd anota-ai/frontend
 npm install
 
 # executar o projeto
-npx react-native run-android
+npm run android
 ```
 
 ## Backend
