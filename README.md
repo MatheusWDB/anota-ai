@@ -50,7 +50,7 @@ npm install
 npx react-native run-android
 ```
 
-## Backnd
+## Backend
 Pré-requisitos: Node.js instalado e configurar informações do banco de dados
 
 ```bash
