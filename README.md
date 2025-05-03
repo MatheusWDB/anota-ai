@@ -10,6 +10,12 @@
 - Adicionar, editar e excluir despesas.
 - Filtrar e ordenar despesas por critérios definidos.
 
+# Layout
+| ![0](https://github.com/user-attachments/assets/138bc378-ca31-4887-9c58-e51e4d40198a) | ![1](https://github.com/user-attachments/assets/5ce81104-db4a-478e-b407-38481f0860ad) | ![2](https://github.com/user-attachments/assets/ebd0bdd9-ddd5-45af-aaf2-161388e9e31f) |
+|:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------:|
+| ![3](https://github.com/user-attachments/assets/e467389d-bf73-479b-b6c4-a5ba9fe34af6) | ![4](https://github.com/user-attachments/assets/001a8d2b-753a-46a7-81ee-c9123b91a28b) | ![5](https://github.com/user-attachments/assets/590ab1c1-cf94-4457-b28d-b3c020fb0f65) |
+| ![6](https://github.com/user-attachments/assets/62ee339e-22e6-4f31-8462-29e2f9f02db2) | ![7](https://github.com/user-attachments/assets/1ccd3163-7907-4858-91e6-0eeb02b4dcb0) |
+
 # Tecnologias utilizadas  
 ## Frontend
 - React Native
